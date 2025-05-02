@@ -9,7 +9,7 @@ Crop_Recommendation_System/
 ├── standscaler.pkl # Standard Scaler used in preprocessing
 ├── ML PROJECT CROP_RECC.ipynb # Jupyter notebook for training & analysis
 ├── requirements.txt # List of required Python packages
-├── README.md # Project overview (this file)
+├── README.md # Project overview 
 ├── templates/
 │ └── index.html # HTML template for the web interface
 ├── static/
