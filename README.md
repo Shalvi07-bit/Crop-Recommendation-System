@@ -14,7 +14,6 @@ Crop_Recommendation_System/
 │ └── index.html # HTML template for the web interface
 ├── static/
 │ └── style.css # (Optional) CSS for styling
-├── 24070243036_machine_learning_report.docx # Full report
 ├── Crop-Recommendation-System-PPT.pdf # Presentation
 ├── Crop_recommendation.csv # Dataset used
 └── pivot_*.csv # Pivot tables for EDA
