@@ -12,8 +12,7 @@ Crop_Recommendation_System/
 ├── README.md # Project overview 
 ├── templates/
 │ └── index.html # HTML template for the web interface
-├── static/
-│ └── style.css # (Optional) CSS for styling
+├── static
 ├── Crop-Recommendation-System-PPT.pdf # Presentation
 ├── Crop_recommendation.csv # Dataset used
 └── pivot_*.csv # Pivot tables for EDA
